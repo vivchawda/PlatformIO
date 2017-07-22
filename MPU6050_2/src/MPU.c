@@ -108,7 +108,7 @@ void task_mpu6050(void *ignore) {
 		accel_y = (data[2] << 8) | data[3];
 		accel_z = (data[4] << 8) | data[5];
 		ESP_LOGD(tag, "accel_x: %d, accel_y: %d, accel_z: %d", accel_x, accel_y, accel_z);
-		printf("accel_x: %d, accel_y: %d, accel_z: %d", accel_x, accel_y, accel_z);
+		printf("accel_x: %d, accel_y: %d, accel_z: %d\n", accel_x, accel_y, accel_z);
 		vTaskDelay(500/portTICK_PERIOD_MS);
 	}
 
