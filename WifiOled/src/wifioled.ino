@@ -2,7 +2,7 @@
 
 #include "WiFi.h"
 #include <SSD1306.h>
-#include "EEPROM.h"
+//#include "EEPROM.h"
 
 
 SSD1306 display(0x3c, 5, 4);
