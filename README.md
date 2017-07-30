@@ -1,7 +1,9 @@
 # PlatformIO for ESP32 
 
-This repository will host all projects with ESP32. Projects hosted here will be mainly using ESP-IDF, few with Arduino ESP support.
-All are PlatformIO projects. Use the following instructions to install PLatformIO.
+This repository hosts all projects for ESP32 chipset. Projects hosted here will be mainly using ESP-IDF, few with Arduino ESP support.
+All are PlatformIO projects. These projects use Wemos Lolin board with OLED display, but any board with ESP32 chipset should work. 
+
+Use the following instructions to install PlatformIO.
 
 ## Ubuntu:
 ### 1. Install Atom.io PPA for Ubuntu
@@ -29,3 +31,5 @@ sudo apt-get install clang
 
 Search for `PlatformIO` and install the PlatformIO-IDE. This will take about 15-20 minutes on average. If you have not installed clang, or are following this guide from midway, you might get a prompt that Clang is not installed and it is needed for autocompletion. Check the section above on how to install `clang`.
 
+Atom Dependencies should take about a year to finish installing. After it does, Atom will prompt you to re-launch the application.
+There might be a few cleanup activities, during which you can have a shave and get ready for ESP32 programming.
