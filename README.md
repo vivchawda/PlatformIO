@@ -29,9 +29,9 @@ If you are on an older release of Ubuntu, you might have to use `apt-get` in the
 sudo apt-get install clang
 ```
 
-Search for `PlatformIO` and install the PlatformIO-IDE. This will take about 15-20 minutes on average. If you have not installed clang, or are following this guide from midway, you might get a prompt that Clang is not installed and it is needed for autocompletion. Check the section above on how to install `clang`.
+3. Search for `PlatformIO` and install the PlatformIO-IDE. This will take about 15-20 minutes on average. If you have not installed clang, or are following this guide from midway, you might get a prompt that Clang is not installed and it is needed for autocompletion. Check the section above on how to install `clang`.
 
-Atom Dependencies should take about a year to finish installing. After it does, Atom will prompt you to re-launch the application.
+4. Atom Dependencies should take about a year to finish installing. After it does, Atom will prompt you to re-launch the application.
 There might be a few cleanup activities, during which you can have a shave and get ready for ESP32 programming.
 
 # References
