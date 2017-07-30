@@ -33,3 +33,6 @@ Search for `PlatformIO` and install the PlatformIO-IDE. This will take about 15-
 
 Atom Dependencies should take about a year to finish installing. After it does, Atom will prompt you to re-launch the application.
 There might be a few cleanup activities, during which you can have a shave and get ready for ESP32 programming.
+
+# References
+Neil Kolban has lots of info onn ESP32. Check out his [Github](https://github.com/nkolban), his [repository](https://github.com/nkolban/esp32-snippets) on ESP32 and his [YouTube](https://www.youtube.com/channel/UChKn_BlaVrMrhEquPNI6HuQ) channel.
