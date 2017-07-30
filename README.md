@@ -21,9 +21,9 @@ sudo apt update; sudo apt install atom
 If you are on an older release of Ubuntu, you might have to use `apt-get` in the command above.
 
 ### 3. Install PlatformIO-IDE for Atom
-Launch Atom.io. By default the Welcome page should have been open, which will have a button to Install packages. If not, open Setup and launch the Package manager from there.
+1. Launch Atom.io. By default the Welcome page should have been open, which will have a button to Install packages. If not, open Setup and launch the Package manager from there.
 
-As a prerequisite, you will need `clang` on your system. This is for autocompletion of code. To install use this
+2. As a prerequisite, you will need `clang` on your system. This is for autocompletion of code. To install use this
 
 ```
 sudo apt-get install clang
@@ -35,4 +35,6 @@ Atom Dependencies should take about a year to finish installing. After it does, 
 There might be a few cleanup activities, during which you can have a shave and get ready for ESP32 programming.
 
 # References
-Neil Kolban has lots of info onn ESP32. Check out his [Github](https://github.com/nkolban), his [repository](https://github.com/nkolban/esp32-snippets) on ESP32 and his [YouTube](https://www.youtube.com/channel/UChKn_BlaVrMrhEquPNI6HuQ) channel.
+**Neil Kolban** has lots of info on ESP32. Check out his [Github](https://github.com/nkolban), his [repository](https://github.com/nkolban/esp32-snippets) on ESP32 and his [YouTube](https://www.youtube.com/channel/UChKn_BlaVrMrhEquPNI6HuQ) channel.
+
+**pcbreflux** also has informative videos on his [YouTube](https://www.youtube.com/channel/UCvsMfEoIu_ZdBIgQVcY_AZA) channel.
