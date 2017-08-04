@@ -7,7 +7,11 @@
 #include "sdkconfig.h"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define PIN_SDA 26 //connection pins io for IMU to ESP
+=======
+#define PIN_SDA 26 //connection pins io
+>>>>>>> aca7cedee07e671753e3bae189506ae4be06d4d9
 =======
 #define PIN_SDA 26 //connection pins io
 >>>>>>> aca7cedee07e671753e3bae189506ae4be06d4d9
