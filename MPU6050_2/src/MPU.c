@@ -6,11 +6,7 @@
 #include <stdio.h>
 #include "sdkconfig.h"
 
-<<<<<<< HEAD
-#define PIN_SDA 26 //connection pins io 
-=======
-#define PIN_SDA 26 //connection pins io for IMU to ESP
->>>>>>> 940c193e3543f9a7e53aaf998359fc2e93476690
+#define PIN_SDA 26 //connection pins io
 #define PIN_CLK 25
 #define I2C_ADDRESS 0x68 // I2C address of MPU6050
 
