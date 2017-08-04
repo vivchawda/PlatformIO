@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include "sdkconfig.h"
 
-#define PIN_SDA 26
+#define PIN_SDA 26 //connection pins io 
 #define PIN_CLK 25
 #define I2C_ADDRESS 0x68 // I2C address of MPU6050
 
