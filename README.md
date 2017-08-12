@@ -39,4 +39,4 @@ There might be a few cleanup activities, during which you can have a shave and g
 
 **pcbreflux** also has informative videos on his [YouTube](https://www.youtube.com/channel/UCvsMfEoIu_ZdBIgQVcY_AZA) channel.
 
-**Explore Embedded** on YouTube has good videos on [AVR C (Bit Shift, Port manipulation).](https://youtu.be/024f0NX2FLs?list=PLRuRKN7_FVgvhdj6JmelCihl6jmKHc_Xt)
+**Explore Embedded** on YouTube has good videos on [AVR C (Bit Shift, Port manipulation)](https://youtu.be/024f0NX2FLs?list=PLRuRKN7_FVgvhdj6JmelCihl6jmKHc_Xt).
