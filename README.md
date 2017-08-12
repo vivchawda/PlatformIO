@@ -38,3 +38,5 @@ There might be a few cleanup activities, during which you can have a shave and g
 **Neil Kolban** has lots of info on ESP32. Check out his [Github](https://github.com/nkolban), his [repository](https://github.com/nkolban/esp32-snippets) on ESP32 and his [YouTube](https://www.youtube.com/channel/UChKn_BlaVrMrhEquPNI6HuQ) channel.
 
 **pcbreflux** also has informative videos on his [YouTube](https://www.youtube.com/channel/UCvsMfEoIu_ZdBIgQVcY_AZA) channel.
+
+**Explore Embedded** on YouTube has good videos on [AVR C (Bit Shift, Port manipulation).](https://youtu.be/024f0NX2FLs?list=PLRuRKN7_FVgvhdj6JmelCihl6jmKHc_Xt)
